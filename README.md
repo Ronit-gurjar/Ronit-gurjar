@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ronit-gurjar
-- 👀 I’m interested in Programming, Cars, Martial arts, Anime and much more
+- 👀 I’m interested in Developmnet, Cars, Martial arts, Anime and much more
 - 🌱 I’m currently learning how to become a Industry level SPEACIALIST in UX/UI design.
 - 💞️ I’m looking to collaborate on Projects related to Machine learning, Web-development, Application Development, game Development and XR 
 - 📫 You can contact me by ronitgurjar999@gmail.com or follow me on my instagram ronitgurjar__
