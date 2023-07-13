@@ -10,5 +10,9 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## My GitHub Stats🧬
+<div align='center'>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronit-gurjar&count_private=true&theme=radical)<img width="48%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Ronit-gurjar&theme=tokyonight" />
 <p><img   margin-left="50%" margin-right="50%"  width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ronit-gurjar&show_icons=true&locale=en&layout=compact" alt="ewf" /></p>
+
+</div>
