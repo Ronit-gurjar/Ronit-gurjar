@@ -3,7 +3,7 @@
  ![pngwing com (1)](https://github.com/Ronit-gurjar/Ronit-gurjar/assets/92150685/1bce0881-94ae-4f22-96f8-70601243247e)
 # ✌️ Hey there ✌️
  Your "not soo average" UX/UI designer and Front-end Developer Friend, 
-### Ronit Gurjar
+## Ronit Gurjar
   
 ![True Knight](https://i.pinimg.com/originals/ce/0e/2f/ce0e2f994611c343b80a307cf2c7a032.gif)
 
