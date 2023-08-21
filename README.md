@@ -1,8 +1,9 @@
-## 👋 Hi, I’m @Ronit-gurjar
-- 👀 I’m interested in Development, Cars, Martial arts, Anime and much more
-- 💞️ I’m looking to collaborate on Projects related to Front-end development, Machine learning, Application Development, game Development and XR. 
-- 📫 You can contact me by ronitgurjar999@gmail.com or follow me on my instagram [Ronit Gurjar](https://www.instagram.com/ronitgurjar__)
 <div align='center'>
+  
+ ![pngwing com (1)](https://github.com/Ronit-gurjar/Ronit-gurjar/assets/92150685/1bce0881-94ae-4f22-96f8-70601243247e)
+# ✌️ Hey there ✌️
+ Your "not soo average" UX/UI designer and Front-end Developer Friend, 
+### Ronit Gurjar
   
 ![True Knight](https://i.pinimg.com/originals/ce/0e/2f/ce0e2f994611c343b80a307cf2c7a032.gif)
 
@@ -49,8 +50,10 @@ You can click the Preview link to take a look at your changes.
   - > Sometimes my Creativity & Stupidity scares me.
   - > love reading books. "KNOWLEGDE IS KEY TO STRENGTH"🥸.
 
-  <div align='center'>
+<div align='center'>
 
-  ![rengoku laughing](https://media.tenor.com/yD1Ogd2Kjb4AAAAC/demon-slayer-rengoku.gif)
-  </div>
+![rengoku laughing](https://media.tenor.com/yD1Ogd2Kjb4AAAAC/demon-slayer-rengoku.gif)
 
+![pngwing com (2)](https://github.com/Ronit-gurjar/Ronit-gurjar/assets/92150685/3af22707-0846-4401-9284-0b9b324403cd)
+
+</div>
