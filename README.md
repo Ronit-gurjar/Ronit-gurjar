@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
      
 - ### 🥷Hobbies
-  - > I love Working Out `Deadlift PR: 120kg(265lb) 😏`.
+  - > I love Working Out `Deadlift PR: 130kg(280lb) 😏`.
   - > I believe Martial arts is the key to understanding flow of life.
   - > Love watching Anime `PR: 200+`.
   - > Sometimes my Creativity & Stupidity scares me.
