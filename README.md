@@ -1,12 +1,11 @@
 <div align='center'>
   
- ![pngwing com (1)](https://github.com/Ronit-gurjar/Ronit-gurjar/assets/92150685/1bce0881-94ae-4f22-96f8-70601243247e)
+ ![Ronit social Banner- Graphic](https://github.com/user-attachments/assets/f3bf46bd-b49e-45ef-8b6c-d1d57405c333)
 # ✌️ Hey there ✌️
- Your COOL UX/UI designer and Front-end Developer Friend, 
+ From The COOL UX/UI designer and Front-end Developer guy, 
 ## Ronit Gurjar
-  
-![True Knight](https://i.pinimg.com/originals/ce/0e/2f/ce0e2f994611c343b80a307cf2c7a032.gif)
 
+![sukuna - the racist one](https://media1.tenor.com/m/uwWJ-L-C5msAAAAC/sukuna-megumi-sukuna-manga.gif)
 </div>
 <!---
 Ronit-gurjar/Ronit-gurjar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -52,7 +51,5 @@ You can click the Preview link to take a look at your changes.
 <div align='center'>
 
 ![rengoku laughing](https://media.tenor.com/yD1Ogd2Kjb4AAAAC/demon-slayer-rengoku.gif)
-
-![pngwing com (2)](https://github.com/Ronit-gurjar/Ronit-gurjar/assets/92150685/3af22707-0846-4401-9284-0b9b324403cd)
 
 </div>
