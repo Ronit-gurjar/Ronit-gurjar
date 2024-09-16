@@ -2,7 +2,7 @@
   
  ![Ronit social Banner- Graphic](https://github.com/user-attachments/assets/f3bf46bd-b49e-45ef-8b6c-d1d57405c333)
 # ✌️ Hey there ✌️
- From The COOL UX/UI designer and Front-end Developer guy, 
+ I am The COOL UX/UI designer and Front-end Developer guy, 
 ## Ronit Gurjar
 
 ![sukuna - the racist one](https://media1.tenor.com/m/uwWJ-L-C5msAAAAC/sukuna-megumi-sukuna-manga.gif)
